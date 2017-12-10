@@ -5,11 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.chen0040</groupId>
-    <artifactId>spring-websocket-android-client-demo</artifactId>
+    <artifactId>spring-websocket-java-client-demo</artifactId>
     <version>1.0.1</version>
 
     <modules>
         <module>spring-boot-application</module>
+        <module>spring-boot-java-client</module>
     </modules>
 
 
