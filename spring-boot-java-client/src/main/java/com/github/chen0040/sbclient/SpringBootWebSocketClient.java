@@ -1,8 +1,5 @@
 package com.github.chen0040.sbclient;
 
-import android.os.Build;
-import android.util.Log;
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
